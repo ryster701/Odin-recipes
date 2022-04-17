@@ -1,2 +1,2 @@
-# Odin-recipes
+# odin-recipes
 odin-recipes website
